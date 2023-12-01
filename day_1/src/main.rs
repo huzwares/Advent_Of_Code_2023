@@ -1,4 +1,5 @@
 use std::fs;
+
 fn main() {
     let sppeled_digit = vec![
         "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
